@@ -1,0 +1,38 @@
+{
+  "name": "mecaptureyou",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "node server.js",
+    "postinstall": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasdavis/mecaptureyou.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasdavis/mecaptureyou/issues"
+  },
+  "homepage": "https://github.com/thomasdavis/mecaptureyou#readme",
+  "engines": {
+    "node": "7.7.4"
+  },
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "express": "^4.15.3",
+    "next": "3.0.0-beta3",
+    "next-routes-t": "^1.0.26",
+    "react": "^15.5.4",
+    "react-apollo": "^1.2.0",
+    "react-dom": "^15.5.4",
+    "redux": "^3.6.0",
+    "styletron-client": "^2.5.7",
+    "styletron-react": "^2.5.8",
+    "styletron-server": "^2.5.7"
+  }
+}
