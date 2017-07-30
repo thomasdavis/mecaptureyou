@@ -40,10 +40,9 @@ const MenuLink = styled('span', (props) => ({
 
 export default () => (
   <Header>
-    <Logo><Link href="/">cdnjs</Link></Logo>
+    <Logo><Link href="/">me capture you</Link></Logo>
     <MainMenu>
-      <Link  prefetch href="/libraries"><a><MenuLink>libraries</MenuLink></a></Link>
-      <Link prefetch href="/community"><a><MenuLink>community</MenuLink></a></Link>
+      <Link  prefetch href="/libraries"><a><MenuLink>gallery</MenuLink></a></Link>
     </MainMenu>
     <AccountMenu>
       <Link prefetch href="/login"><a><MenuLink>login</MenuLink></a></Link>
