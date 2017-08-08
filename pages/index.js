@@ -1,7 +1,3 @@
-import Page from '../layouts/main';
-
-export default () => (
-  <Page>
-    <div>ome page</div>
-  </Page>
-)
+export default () => {
+  return <div>ome page</div>;
+};
