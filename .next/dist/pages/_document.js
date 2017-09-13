@@ -104,88 +104,56 @@ var MyDocument = function (_Document) {
           fileName: _jsxFileName,
           lineNumber: 32
         }
-      }, '\n            body {\n              padding: 0;\n              margin: 0;\n              font-family: Montserrat, sans-serif;\n            }\n            a {\n              color: inherit;\n              text-decoration: none;\n            }\n            .container {\n              margin: auto;\n              width: 800px;\n            }\n            .header {\n              padding: 50px;\n            }\n            .divider {\n              height: 3px;\n              width: 100%;\n              background: #444;\n            }\n            .logo {\n              width: 380px;\n              float: left;\n            }\n            .contact_details {\n              float: right;\n              width: 380px;\n            }\n            .slide1 {\n              width: 100%;\n            }\n          ')), _react2.default.createElement('body', {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 67
-        }
-      }, _react2.default.createElement('div', { className: 'container header', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 68
-        }
-      }, _react2.default.createElement('img', { className: 'logo', src: '/static/logo.png', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 69
-        }
-      }), _react2.default.createElement('div', { className: 'contact_details', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 70
-        }
-      }, _react2.default.createElement('h1', {
+      }, '\n            body {\n              padding: 0;\n              margin: 0;\n              font-family: Montserrat, sans-serif;\n            }\n            a {\n              color: inherit;\n              text-decoration: none;\n            }\n            .container {\n            }\n            .header {\n              text-align: center;\n            }\n            .divider {\n              height: 3px;\n              width: 100%;\n              background: #444;\n            }\n            .logo {\n              width: 420px;\n              margin-top: 80px;\n            }\n            .contact_details {\n              width: 380px;\n              margin: auto;\n              text-align: center;\n              margin-top: 40px;\n              margin-bottom: 40px;\n              line-height: 23px;\n              font-size: 18px;\n              padding-left: 20px;\n            }\n            .slide1 {\n              width: 100%;\n            }\n          ')), _react2.default.createElement('body', {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 71
         }
-      }, 'Me Capture You'), _react2.default.createElement('div', {
-        __source: {
+      }, _react2.default.createElement('div', { className: 'container header', __source: {
           fileName: _jsxFileName,
           lineNumber: 72
         }
-      }, 'Lifestyle Pay Nothing Polish Photograper'), _react2.default.createElement('div', {
-        __source: {
+      }, _react2.default.createElement('img', { className: 'logo', src: '/static/logo.png', __source: {
           fileName: _jsxFileName,
           lineNumber: 73
+        }
+      }), _react2.default.createElement('div', { className: 'contact_details', __source: {
+          fileName: _jsxFileName,
+          lineNumber: 74
+        }
+      }, _react2.default.createElement('div', {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 75
+        }
+      }, 'Lifestyle Photograper'), _react2.default.createElement('div', {
+        __source: {
+          fileName: _jsxFileName,
+          lineNumber: 76
         }
       }, 'Based in Abbotsford'), _react2.default.createElement('div', {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 74
+          lineNumber: 77
         }
-      }, 'hello@mecaptureyou.com')), _react2.default.createElement('div', { style: { clear: 'both' }, __source: {
-          fileName: _jsxFileName,
-          lineNumber: 76
-        }
-      })), _react2.default.createElement('div', { className: 'divider', __source: {
+      }, 'hello@mecaptureyou.com'), _react2.default.createElement('div', {
+        __source: {
           fileName: _jsxFileName,
           lineNumber: 78
         }
-      }), _react2.default.createElement('div', { className: 'slide', __source: {
+      }, '041987212')), _react2.default.createElement('a', { href: '', __source: {
           fileName: _jsxFileName,
-          lineNumber: 79
+          lineNumber: 81
         }
-      }, _react2.default.createElement('img', { className: 'slide1', src: '/static/mecapu04.jpg', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 80
-        }
-      })), _react2.default.createElement('div', {
+      }, _react2.default.createElement('h3', {
         __source: {
           fileName: _jsxFileName,
-          lineNumber: 82
+          lineNumber: 81
         }
-      }, 'asdasdasdasd'), _react2.default.createElement('div', { id: 'scene', __source: {
+      }, 'View Gallery on Flickr'))), _react2.default.createElement(_document.NextScript, {
+        __source: {
           fileName: _jsxFileName,
           lineNumber: 83
-        }
-      }, _react2.default.createElement('div', { 'data-depth': '0.00', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 84
-        }
-      }, _react2.default.createElement('img', { src: '/static/mecapu04.jpg', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 85
-        }
-      })), _react2.default.createElement('div', { 'data-depth': '0.20', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 87
-        }
-      }, _react2.default.createElement('img', { src: '/static/mecapu03.jpg', __source: {
-          fileName: _jsxFileName,
-          lineNumber: 88
-        }
-      }))), _react2.default.createElement(_document.NextScript, {
-        __source: {
-          fileName: _jsxFileName,
-          lineNumber: 91
         }
       })));
     }

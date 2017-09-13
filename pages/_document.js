@@ -40,11 +40,9 @@ export default class MyDocument extends Document {
               text-decoration: none;
             }
             .container {
-              margin: auto;
-              width: 800px;
             }
             .header {
-              padding: 50px;
+              text-align: center;
             }
             .divider {
               height: 3px;
@@ -52,12 +50,18 @@ export default class MyDocument extends Document {
               background: #444;
             }
             .logo {
-              width: 380px;
-              float: left;
+              width: 420px;
+              margin-top: 80px;
             }
             .contact_details {
-              float: right;
               width: 380px;
+              margin: auto;
+              text-align: center;
+              margin-top: 40px;
+              margin-bottom: 40px;
+              line-height: 23px;
+              font-size: 18px;
+              padding-left: 20px;
             }
             .slide1 {
               width: 100%;
@@ -68,25 +72,13 @@ export default class MyDocument extends Document {
           <div className="container header">
             <img className="logo" src="/static/logo.png" />
             <div className="contact_details">
-              <h1>Me Capture You</h1>
-              <div>Lifestyle Pay Nothing Polish Photograper</div>
+              <div>Lifestyle Photograper</div>
               <div>Based in Abbotsford</div>
               <div>hello@mecaptureyou.com</div>
+              <div>041987212</div>
             </div>
-            <div style={{ clear: 'both' }} />
-          </div>
-          <div className="divider" />
-          <div className="slide">
-            <img className="slide1" src="/static/mecapu04.jpg" />
-          </div>
-          <div>asdasdasdasd</div>
-          <div id="scene">
-            <div data-depth="0.00">
-              <img src="/static/mecapu04.jpg" />
-            </div>
-            <div data-depth="0.20">
-              <img src="/static/mecapu03.jpg" />
-            </div>
+
+            <a href=""><h3>View Gallery on Flickr</h3></a>
           </div>
           <NextScript />
         </body>
