@@ -42,7 +42,7 @@ var _parallaxJs2 = _interopRequireDefault(_parallaxJs);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-var _jsxFileName = '/home/ajax/repos/mecaptureyou/pages/_document.js?entry';
+var _jsxFileName = '/Users/thomasdavis/repos/mecaptureyou/pages/_document.js?entry';
 
 
 var MyDocument = function (_Document) {
